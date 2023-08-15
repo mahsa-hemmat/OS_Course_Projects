@@ -1,0 +1,6 @@
+[submodule "lab1-3"]
+	path = lab1-3
+	url = https://github.com/mahsa-hemmat/OS_LAB1_3.git
+[submodule "lab5"]
+	path = lab5
+	url = https://github.com/mahsa-hemmat/OS_LAB5.git
